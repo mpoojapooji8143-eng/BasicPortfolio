@@ -1,0 +1,30 @@
+<svg width="800" height="900" viewBox="0 0 800 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="900" rx="60" fill="url(#bg)"/>
+  <circle cx="620" cy="150" r="120" fill="url(#blob1)" opacity="0.8"/>
+  <circle cx="200" cy="760" r="180" fill="url(#blob2)" opacity="0.7"/>
+  <path d="M285 260C285 197.964 336.964 146 399 146C461.036 146 513 197.964 513 260V291C513 353.036 461.036 405 399 405C336.964 405 285 353.036 285 291V260Z" fill="#F0D5B5"/>
+  <path d="M269 337C269 261.601 329.601 201 405 201C480.399 201 541 261.601 541 337V425C541 500.399 480.399 561 405 561H399C323.601 561 263 500.399 263 425V337H269Z" fill="#0F172A"/>
+  <path d="M310 285C323.776 224.487 372.535 180 431 180C494.524 180 551 238.653 551 304V394C551 471.677 481.677 529 404 529H393C315.323 529 246 471.677 246 394V328C246 302.595 267.405 281 293 281H310V285Z" fill="#0B1120"/>
+  <circle cx="382" cy="288" r="14" fill="#0B1120"/>
+  <circle cx="470" cy="288" r="14" fill="#0B1120"/>
+  <path d="M360 350C386.5 375.5 416.5 375.5 444 350" stroke="#F7C7A4" stroke-width="10" stroke-linecap="round"/>
+  <path d="M270 660C320 589.541 352.679 557 397 557C439.535 557 475.328 589.541 530 660V725H270V660Z" fill="#0B1120"/>
+  <path d="M320 725H480L515 836H285L320 725Z" fill="#E5E7EB"/>
+  <path d="M285 714C311.792 689.332 354.005 675 396 675C438.899 675 480.541 689.768 509 714V760H285V714Z" fill="#4DB6FF" fill-opacity="0.4"/>
+  <text x="400" y="848" text-anchor="middle" font-family="Arial, sans-serif" font-size="72" font-weight="700" fill="#E6F7FF">PM</text>
+  <defs>
+    <linearGradient id="bg" x1="50" y1="30" x2="735" y2="870" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="0.5" stop-color="#101D30"/>
+      <stop offset="1" stop-color="#1A1137"/>
+    </linearGradient>
+    <radialGradient id="blob1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(620 150) rotate(90) scale(120)">
+      <stop stop-color="#4DB6FF"/>
+      <stop offset="1" stop-color="#4DB6FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blob2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(200 760) rotate(90) scale(180)">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
